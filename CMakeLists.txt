@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 2.8.3...3.5)
 
 # Either this or bump cmake_minimum_required to 3.0+
 # Allow us to use Version in project() call : https://cmake.org/cmake/help/v3.0/policy/CMP0048.html#policy:CMP0048
